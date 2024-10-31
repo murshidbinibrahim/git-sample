@@ -1,4 +1,4 @@
 - Qty
 - Item
-- Payment Option
+- Payment Option - Phonepe
 - Address
