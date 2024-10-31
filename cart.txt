@@ -1,4 +1,4 @@
 - Qty
 - Item
-- Payment Option - GPAY
+- Payment Option - GPAY, Phonepe
 - Address
